@@ -60,7 +60,7 @@ function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
-}
+  }
 
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
@@ -144,28 +144,11 @@ function obtenerSaludo(nombre) {
 function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un cuadrado teniendo su altura y ancho
   // Tu código:
+  return (alto * ancho)
 }
-
 
 // No modificar nada debajo de esta línea
 // --------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 module.exports = {
   nuevaString,
   nuevoNum,
